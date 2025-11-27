@@ -1,0 +1,112 @@
+{
+  "stages": {
+    "paths": {
+      ".glb": [
+        "00800-TEEsavR23oF/*.basis.glb",
+        "00802-wcojb4TFT35/*.basis.glb",
+        "00803-k1cupFYWXJ6/*.basis.glb",
+        "00808-y9hTuugGdiq/*.basis.glb",
+        "00810-CrMo8WxCyVb/*.basis.glb",
+        "00813-svBbv1Pavdk/*.basis.glb",
+        "00814-p53SfW6mjZe/*.basis.glb",
+        "00815-h1zeeAwLh9Z/*.basis.glb",
+        "00820-mL8ThkuaVTM/*.basis.glb",
+        "00821-eF36g7L6Z9M/*.basis.glb",
+        "00823-7MXmsvcQjpJ/*.basis.glb",
+        "00824-Dd4bFSTQ8gi/*.basis.glb",
+        "00827-BAbdmeyTvMZ/*.basis.glb",
+        "00829-QaLdnwvtxbs/*.basis.glb",
+        "00831-yr17PDCnDDW/*.basis.glb",
+        "00832-qyAac8rV8Zk/*.basis.glb",
+        "00835-q3zU7Yy5E5s/*.basis.glb",
+        "00839-zt1RVoi7PcG/*.basis.glb",
+        "00843-DYehNKdT76V/*.basis.glb",
+        "00844-q5QZSEeHe5g/*.basis.glb",
+        "00847-bCPU9suPUw9/*.basis.glb",
+        "00848-ziup5kvtCCR/*.basis.glb",
+        "00849-a8BtkwhxdRV/*.basis.glb",
+        "00853-5cdEh9F2hJL/*.basis.glb",
+        "00861-GLAQ4DNUx5U/*.basis.glb",
+        "00862-LT9Jq6dN3Ea/*.basis.glb",
+        "00869-MHPLjHsuG27/*.basis.glb",
+        "00871-VBzV5z6i1WS/*.basis.glb",
+        "00873-bxsVRursffK/*.basis.glb",
+        "00876-mv2HUxq3B53/*.basis.glb",
+        "00877-4ok3usBNeis/*.basis.glb",
+        "00878-XB4GS9ShBRE/*.basis.glb",
+        "00880-Nfvxx8J5NCo/*.basis.glb",
+        "00890-6s7QHgap2fW/*.basis.glb",
+        "00891-cvZr5TUy5C5/*.basis.glb",
+        "00894-HY1NcmCgn3n/*.basis.glb"
+      ]
+    },
+    "default_attributes": {
+      "shader_type": "flat",
+      "up": [
+        0,
+        0,
+        1
+      ],
+      "front": [
+        0,
+        1,
+        0
+      ],
+      "origin": [
+        0,
+        0,
+        0
+      ],
+      "semantic_descriptor_filename": "%%CONFIG_NAME_AS_ASSET_FILENAME%%.semantic.txt",
+      "semantic_asset": "%%CONFIG_NAME_AS_ASSET_FILENAME%%.semantic.glb",
+      "has_semantic_textures": true
+    }
+  },
+  "objects": {},
+  "light_setups": {},
+  "scene_instances": {
+    "default_attributes": {
+      "default_lighting": "no_lights"
+    },
+    "paths": {
+      ".json": [
+        "00800-TEEsavR23oF/*.basis.scene_instance.json",
+        "00802-wcojb4TFT35/*.basis.scene_instance.json",
+        "00803-k1cupFYWXJ6/*.basis.scene_instance.json",
+        "00808-y9hTuugGdiq/*.basis.scene_instance.json",
+        "00810-CrMo8WxCyVb/*.basis.scene_instance.json",
+        "00813-svBbv1Pavdk/*.basis.scene_instance.json",
+        "00814-p53SfW6mjZe/*.basis.scene_instance.json",
+        "00815-h1zeeAwLh9Z/*.basis.scene_instance.json",
+        "00820-mL8ThkuaVTM/*.basis.scene_instance.json",
+        "00821-eF36g7L6Z9M/*.basis.scene_instance.json",
+        "00823-7MXmsvcQjpJ/*.basis.scene_instance.json",
+        "00824-Dd4bFSTQ8gi/*.basis.scene_instance.json",
+        "00827-BAbdmeyTvMZ/*.basis.scene_instance.json",
+        "00829-QaLdnwvtxbs/*.basis.scene_instance.json",
+        "00831-yr17PDCnDDW/*.basis.scene_instance.json",
+        "00832-qyAac8rV8Zk/*.basis.scene_instance.json",
+        "00835-q3zU7Yy5E5s/*.basis.scene_instance.json",
+        "00839-zt1RVoi7PcG/*.basis.scene_instance.json",
+        "00843-DYehNKdT76V/*.basis.scene_instance.json",
+        "00844-q5QZSEeHe5g/*.basis.scene_instance.json",
+        "00847-bCPU9suPUw9/*.basis.scene_instance.json",
+        "00848-ziup5kvtCCR/*.basis.scene_instance.json",
+        "00849-a8BtkwhxdRV/*.basis.scene_instance.json",
+        "00853-5cdEh9F2hJL/*.basis.scene_instance.json",
+        "00861-GLAQ4DNUx5U/*.basis.scene_instance.json",
+        "00862-LT9Jq6dN3Ea/*.basis.scene_instance.json",
+        "00869-MHPLjHsuG27/*.basis.scene_instance.json",
+        "00871-VBzV5z6i1WS/*.basis.scene_instance.json",
+        "00873-bxsVRursffK/*.basis.scene_instance.json",
+        "00876-mv2HUxq3B53/*.basis.scene_instance.json",
+        "00877-4ok3usBNeis/*.basis.scene_instance.json",
+        "00878-XB4GS9ShBRE/*.basis.scene_instance.json",
+        "00880-Nfvxx8J5NCo/*.basis.scene_instance.json",
+        "00890-6s7QHgap2fW/*.basis.scene_instance.json",
+        "00891-cvZr5TUy5C5/*.basis.scene_instance.json",
+        "00894-HY1NcmCgn3n/*.basis.scene_instance.json"
+      ]
+    }
+  }
+}
