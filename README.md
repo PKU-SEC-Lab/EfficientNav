@@ -1,8 +1,8 @@
 ## EfficientNav: On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval
 This is also the official code repository for the paper [EfficientNav](https://arxiv.org/abs/2510.18546).
 
-EfficientNav is a novel framework that enables efficient on-device Object Goal Navigation (ObjNav) using smaller language models. Developing LLM-based navigation system on local device is challenging, due to the limited model capacity of smaller LLM planner for understanding complex navigation maps.
-At the same time, the long prompt introduced by the navigation map description will cause high planning latency on local devices. 
+EfficientNav is a novel framework that enables efficient on-device Object Goal Navigation (ObjNav) using smaller language models. Developing LLM-based navigation system on local device is challenging, due to the **limited model capacity of smaller LLM planner** for understanding complex navigation maps.
+At the same time, the **long prompt introduced by the navigation map description** will cause high planning latency on local devices. 
 This project tackles the critical challenges of deploying LLM-based navigation agents on local devices by efficient navigation map caching and retrieval.
 
 ## Key Features 🚀 
