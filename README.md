@@ -1,12 +1,18 @@
 ## EfficientNav: On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval
 This is also the official code repository for the paper [EfficientNav](https://arxiv.org/abs/2510.18546).
 
-EfficientNav is a novel system designed to enable efficient, on-device, zero-shot object-goal navigation (ObjNav) using lightweight large language models (LLMs). 
-Developing LLM-based navigation system on local device is challenging, due to the limited model capacity of smaller LLM planner for understanding complex navigation maps.
+EfficientNav is a novel framework that enables efficient on-device Object Goal Navigation (ObjNav) using smaller language models. Developing LLM-based navigation system on local device is challenging, due to the limited model capacity of smaller LLM planner for understanding complex navigation maps.
 At the same time, the long prompt introduced by the navigation map description will cause high planning latency on local devices. 
-EfficientNav solve this with a semantics-aware memory retrieval method, which can prune redundant information in navigation maps. To reduce planning latency, EfficientNav uses discrete memory caching and attention-based memory clustering to efficiently save and re-use the KV cache.
-On the HM3D dataset, EfficientNav significantly reduces KV-cache recomputation and memory usage while improving navigation success rates—even outperforming GPT-4-based planners.
+This project tackles the critical challenges of deploying LLM-based navigation agents on local devices by efficient navigation map caching and retrieval.
 
+## Key Features 🚀 
+- **Semantics-Aware Memory Retrieval**: Prunes redundant information in navigation maps to enhance smaller LLMs' environment understanding
+
+- **Discrete Memory Caching**: Efficiently saves and reuses KV cache to reduce planning latency
+
+- **Attention-Based Memory Clustering**: Recovers memory interactions for better model performance
+
+- On the HM3D dataset, EfficientNav significantly reduces KV-cache recomputation and memory usage while improving navigation success rates—**even outperforming GPT-4-based planners**
 
 ## Installation
 Assuming you have conda installed, let's prepare a conda env:
